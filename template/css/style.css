@@ -1,0 +1,59 @@
+body, html{
+    font-family: 'Montserrat' , sans-serif;
+}
+
+.container-fluid, body, html{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 25%;
+}
+
+.p-menu{
+    font-size: 25px;
+    color: #9F001A;
+}
+
+i {
+    margin-right: 8px;
+    color: #ccc;
+}
+
+.hero{
+    background-color: #9F001A;
+
+    color: #fff;
+}
+
+.register{
+    background-color: #FABF0C;
+    color: #fff;
+    border: none;
+}
+
+.register:hover{
+    background-color: #9F001A;
+}
+
+.my-btn{
+    background-color:  #9F001A;
+    border: none;
+}
+
+.tags{
+    background-color:#FABF0C;
+    border-radius: 20px;
+    margin: 10px 5px;
+}
+.card-img-top{
+    width: 60%;
+}
+
+.img-edit{
+    width: 10%
+}
+footer{
+    background-color: #9F001A;
+}
